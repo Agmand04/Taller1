@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR79araYpd1uWwM18gsTFXGFs0lVVv9aGj-w&usqp=CAU");
+    background-size: cover;
+}
+.texto{
+    margin: 2em;
+}
+.cards{
+    margin: 2em;
+}
+.boton{
+    margin: 2em;
+}
+img{
+    width: 50px;
+    height: 500px;
+}

@@ -1,0 +1,75 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR79araYpd1uWwM18gsTFXGFs0lVVv9aGj-w&usqp=CAU');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.pagina {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+} 
+
+.header h1 {
+
+    background-color: black;
+    color: white;
+
+}
+
+.contenido {
+
+    margin: 2em;
+    background-image: url("https://www.giztab.com/wp-content/uploads/2022/05/4.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    color: white;
+
+
+}
+
+.operacion{
+    margin: 1em;
+    padding: 1em;
+}
+
+.operacion label{
+    margin: 1em;
+    padding: 1em;
+}
+
+.operacion input{
+    margin: 1em;
+    padding: 1em;
+}
+
+.botones {
+
+   display: flex; 
+
+}
+
+.barra {
+
+    width: 500px;
+
+}
+
+#resultado {
+
+    margin: 1em;
+    padding: 1em;
+    border: solid 5px rgb(255, 255, 255) ;
+
+}
